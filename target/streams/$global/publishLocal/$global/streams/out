@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0minfo[0m] [0m	published rules-spi_2.11 to /Users/al/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/poms/rules-spi_2.11.pom[0m
+[0m[[0minfo[0m] [0m	published rules-spi_2.11 to /Users/al/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/jars/rules-spi_2.11.jar[0m
+[0m[[0minfo[0m] [0m	published rules-spi_2.11 to /Users/al/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/srcs/rules-spi_2.11-sources.jar[0m
+[0m[[0minfo[0m] [0m	published rules-spi_2.11 to /Users/al/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/docs/rules-spi_2.11-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	published ivy to /Users/al/.ivy2/local/com.foo/rules-spi_2.11/1.0-SNAPSHOT/ivys/ivy.xml[0m

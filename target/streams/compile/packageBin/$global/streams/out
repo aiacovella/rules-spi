@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /Users/al/data/projects/rules-spi/target/scala-2.11/rules-spi_2.11-1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/BusinessRulesProviderT.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/BusinessRulesProviderT.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionSuccess.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionSuccess.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionOverridden.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionOverridden.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionInitialized$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionInitialized$.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionOverridden$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionOverridden$.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionInProcess$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionInProcess$.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/BusinessExceptionStatus.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/BusinessExceptionStatus.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/foo[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionFailure.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionFailure.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionInProcess.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionInProcess.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionInitialized.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionInitialized.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionFailure$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionFailure$.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/BusinessRuleT.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/BusinessRuleT.class[0m
+[0m[[0mdebug[0m] [0m	com/foo/rules/spi/ExceptionSuccess$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/al/data/projects/rules-spi/target/scala-2.11/classes/com/foo/rules/spi/ExceptionSuccess$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
